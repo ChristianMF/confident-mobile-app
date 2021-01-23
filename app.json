@@ -1,0 +1,12 @@
+{
+  "name": "Confident",
+  "displayName": "Confident",
+  "expo": {
+    "name": "Confident",
+    "slug": "Confident",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
